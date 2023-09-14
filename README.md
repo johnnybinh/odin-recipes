@@ -4,7 +4,7 @@
 
 **this is the website that will show you some of my favourite recipes to date :)**
 
-***[Go to site](johnnybinh.github.io/odin-recipes)***
+***[Go to site](https://johnnybinh.github.io/odin-recipes/)***
 
 ![some code](img/screenshot1.png)
 
